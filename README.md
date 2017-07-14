@@ -1,6 +1,6 @@
 # Praesent commodo
 
-- Cursus magna
+Cursus magna
 - vel scelerisque nisl
 - onsectetur et.
 

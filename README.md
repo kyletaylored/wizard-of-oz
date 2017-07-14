@@ -1,8 +1,8 @@
 # Praesent commodo
 
-*Cursus magna
-*vel scelerisque nisl
-*onsectetur et.
+- Cursus magna
+- vel scelerisque nisl
+- onsectetur et.
 
 >Donec sed odio dui.
 
